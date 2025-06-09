@@ -82,10 +82,4 @@ The dataset contains comprehensive booking records with:
 - `data/`: Sample datasets (anonymized)
 - `reports/`: Presentation decks for stakeholders
 
-## 🔗 Related Resources
-[Industry Benchmarks Report](https://example.com/hospitality-trends) | 
-[Revenue Management Guide](https://example.com/revenue-optimization)
-
----
-
 **Note**: Contains simulated data for demonstration purposes. Actual implementation would require proprietary business data.
